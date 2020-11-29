@@ -3,6 +3,8 @@
 A small set of Terraform files to deploy an EKS cluster on AWS.
 
 Prerequisites:
+
+
 Terraform Installed - https://learn.hashicorp.com/tutorials/terraform/install-cli
 
 
